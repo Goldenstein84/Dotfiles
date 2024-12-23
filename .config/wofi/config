@@ -1,0 +1,12 @@
+term=kitty
+location=top
+yoffset=250
+width=25%
+lines=5
+
+prompt= Theyre wayching
+insensitive=true
+allow_images=true
+hide_scroll=true
+
+
